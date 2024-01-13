@@ -1,4 +1,4 @@
-This repository is to know how to containerize a basic Python application in Local or Docker Playgroud.
+This repository is to know how to containerize a basic Python application in local host or Docker Playgroud.
 
 1. pip install flask
 ```
